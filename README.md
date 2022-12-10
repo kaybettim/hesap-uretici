@@ -1,1 +1,1 @@
-# crexy-token-gen-qwe
+# crexy-token-gen
